@@ -1,0 +1,25 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  background-color: teal;
+}
+.jumbotron h1{
+  color:red;
+}
+.jumbotron p{
+  color:rgb(109, 13, 13);
+}
+img{
+  height: 200px;
+}
+p{
+  font-size: 4rem;
+  font-weight: bold;
+}
+button{
+  background-color: rgba(114, 8, 8, 0.445);
+  color: white;
+}
+div .container{
+  background-color: burlywood;
+}
